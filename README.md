@@ -1,4 +1,4 @@
-# BOOKAHOLICS-OF-MDA
+# BOOKAHOLICS OF MĐA
 Những điều mà bạn cần biết nếu muốn tham gia [BOOKAHOLICS OF MĐA](https://www.facebook.com/groups/bookMDA/)
 
 ## NỘI QUY NHÓM
