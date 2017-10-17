@@ -24,7 +24,7 @@ Những điều mà bạn cần biết nếu muốn tham gia [BOOKAHOLICS OF MĐ
 |--------------------|--------------------------------------------------|
 | #bookMDA_question  | Hỏi đáp, thắc mắc                                |
 | #bookMDA_discuss   | Thảo luận về chủ đề nào đó                       |
-| #bookMDA_share     | Chia sẻ (tài liệu, sách, ...)                    |
+| #bookMDA_share     | Chia sẻ cảm nhận, hình ảnh :v                    |
 | #bookMDA_relax     | Ảnh, video hoặc nội dung giải trí                |
 | #bookMDA_recommend | Gợi ý các loại sách                              |
 | #bookMDA_news      | Tin tức, cập nhật về sách                        |
